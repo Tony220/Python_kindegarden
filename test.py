@@ -40,5 +40,5 @@ List methods and functions
 my_list = ["Howdy", "children"]
 my_list.append(". You are loozers!")
 print(my_list)
-my_list.reverse()
+my_list.reverse()# re
 print(my_list)
